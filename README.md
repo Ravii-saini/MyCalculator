@@ -14,7 +14,7 @@ This is a simple calculator project built with HTML, CSS, and JavaScript. It pro
 1. Clone the repository to your local machine:
 
 ```sh
-git clone [https://github.com/yourusername/simple-calculator.git](https://github.com/Ravii-saini/MyCalculator.git)
+git clone https://github.com/Ravii-saini/MyCalculator.git
 ```
 
 2. Navigate to the project directory:
